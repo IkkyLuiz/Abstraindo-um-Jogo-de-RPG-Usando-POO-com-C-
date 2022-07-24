@@ -1,0 +1,2 @@
+# Abstraindo-um-Jogo-de-RPG-Usando-POO-com-C-
+Neste projeto foi feito o uso de Programação Orientada a Objetos para abstrair um jogo de RPG. Foi utilizado a linguagem de programação C#. O projeto foi ministrado por Felipe Aguiar e Adriana Silva fez a interação e leitura das dúvidas dos alunos. Além disso podemos aprender os 4 pilares da Programação Orientada a Objetos: Abstração, Encapsulamento, Herança e Polimorfismo.
