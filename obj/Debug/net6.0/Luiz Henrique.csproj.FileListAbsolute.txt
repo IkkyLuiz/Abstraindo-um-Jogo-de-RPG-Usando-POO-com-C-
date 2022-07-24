@@ -1,0 +1,15 @@
+C:\Users\Luiz Henrique\Desktop\dotnet\bin\Debug\net6.0\Luiz Henrique.exe
+C:\Users\Luiz Henrique\Desktop\dotnet\bin\Debug\net6.0\Luiz Henrique.deps.json
+C:\Users\Luiz Henrique\Desktop\dotnet\bin\Debug\net6.0\Luiz Henrique.runtimeconfig.json
+C:\Users\Luiz Henrique\Desktop\dotnet\bin\Debug\net6.0\Luiz Henrique.dll
+C:\Users\Luiz Henrique\Desktop\dotnet\bin\Debug\net6.0\Luiz Henrique.pdb
+C:\Users\Luiz Henrique\Desktop\dotnet\obj\Debug\net6.0\Luiz Henrique.csproj.AssemblyReference.cache
+C:\Users\Luiz Henrique\Desktop\dotnet\obj\Debug\net6.0\Luiz Henrique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Henrique\Desktop\dotnet\obj\Debug\net6.0\Luiz Henrique.AssemblyInfoInputs.cache
+C:\Users\Luiz Henrique\Desktop\dotnet\obj\Debug\net6.0\Luiz Henrique.AssemblyInfo.cs
+C:\Users\Luiz Henrique\Desktop\dotnet\obj\Debug\net6.0\Luiz Henrique.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\Desktop\dotnet\obj\Debug\net6.0\Luiz Henrique.dll
+C:\Users\Luiz Henrique\Desktop\dotnet\obj\Debug\net6.0\refint\Luiz Henrique.dll
+C:\Users\Luiz Henrique\Desktop\dotnet\obj\Debug\net6.0\Luiz Henrique.pdb
+C:\Users\Luiz Henrique\Desktop\dotnet\obj\Debug\net6.0\Luiz Henrique.genruntimeconfig.cache
+C:\Users\Luiz Henrique\Desktop\dotnet\obj\Debug\net6.0\ref\Luiz Henrique.dll
